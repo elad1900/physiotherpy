@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang= "he">
+<meta charset= "utf-8" />
+<title>ביקורי בית</title>
+<head>
+<style>
+        body {background-color: powderblue;}
+        h1   {color: blue; text-align:center;}
+        h2   {color: red;}
+        p    {margin: 20px;}
+</style>
+      <meta charset= "utf-8" />
+      <title>ביקורי בית</title>
+</head>  
+<body dir="rtl" style="background-color:rgb(153, 255, 255);">
+<h1>ביקורי בית</h1>
+
+<h2>לטלפון</h2>
+
+<p>
+<label>שם:</label><input type="text"><br><br><label>טלפון:</label><input type="text"><br><br><label>כתובת:</label><input type="text"><br><br>
+</p>
+
+<h2>מהתיק</h2>
+
+<p>
+<label>ת"ז:</label><input type="text"><br><br><label>גיל:</label><input type="text"><br><br><label>בעיות פעילות:</label><input type="text" size="65"><br><br><label>בעיות פעילות:</label><input type="text" size="65"><br><br><label>בעיה נוכחית:</label><input type="text" size="65"><br><br><label>בעיה נוכחית:</label><input type="text" size="65"><br><br><label>הדמיה:</label><input type="text" size="65"><br><br><label>הוראות רופא:</label><input type="text" size="65"><br><br><label>רופא מפנה:</label><input type="text"><br><br><label>תאריך הפניה:</label><input type="text"><br><br><label>אבחנה:</label><input type="text"><br><br><label>סיבת ההפניה:</label><input type="text" size="65"><br><br>
+</p>
+
+<h2>ראיון</h2>
+
+<p>
+<label>תפקוד קודם:</label><input type="text" size="65"><br><br><label>תנאי מגורים:</label><input type="text" size="65"><br><br><label>תלונות המטופל/המשפחה:</label><input type="text" size="65"><br><br><label>סיבת טיפול ביקור:</label><input type="text"><br><br><label>כאב:</label><input type="text"><br><br><label>נפילות:</label><input type="text"><br><br><label>התמצאות ושיתוף פעולה:</label><input type="text"><br><br><label>אביזרי עזר:</label><input type="text">
+</p>
+
+<h2>בדיקה פיזיקלית</h2>
+
+<p>
+<label>טווחי תנועה:</label><input type="text"><br><br><label>טונוס:</label><input type="text"><br><br><label>כח גס:</label><input type="text"><br><br><label>מדרגות:</label><input type="text"><br><br><label>מעברים:	מעמידה לשכיבה:</label><input type="text"><br><br><label>מעברים:	משכיבה לעמידה:</label><input type="text"><br><br><label>תחושה:</label><input type="text"><br><br><label>תפקוד נשימתי:</label><input type="text"><br><br><label>תפקודי גפיים עליונים:</label><input type="text"><br><br><label>תפקודי הליכה בבית/מחוץ לבית:</label><input type="text"><br><br><label>תפקודי מיטה: גלגול:</label><input type="text"><br><br><label>תפקודי מיטה: תנועה בתוך במיטה:</label><input type="text"><br><br>
+</p>
+
+</body>
+</html>
